@@ -40,7 +40,9 @@
 
 
 ## ✴️ connect me at:
+
 💼 hritikraj_03@Outlook.com
+
 👨‍💼 f20200980@hyderabad.bits-pilani.ac.in
 
 
