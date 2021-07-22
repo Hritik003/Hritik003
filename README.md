@@ -48,8 +48,12 @@
 
 
 
- <div align="center">
 
-### Keeping stalking 👀my repositories, by starring ⭐ some of the repositories!
+
+
+
+<div align="center">
+
+### Have a look at my repositories!
 
 </div>
