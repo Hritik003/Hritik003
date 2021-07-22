@@ -2,6 +2,9 @@
 <a href="https://www.linkedin.com/in/hritik-raj-chanda-08176920a/">
   <img align="left" alt="Hritik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://instagram.com/_hey.harmony_/">
+  <img align="left" alt="Hritik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <br />
 
