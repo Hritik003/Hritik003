@@ -8,22 +8,24 @@
 
 ##  :man_technologist: About Me
 
--➡️ hi, I'm Hritik Raj, a passionate in learning tools and technologies. 
+➡️ hi, I'm Hritik Raj, a passionate in learning tools and technologies. 
 
--👨‍🦱 I am a mathematics undergrad at BITS Pilani.
+👨‍🦱 I am a mathematics undergrad at BITS Pilani.
 
--💡 exploring new stuff and trying to build my skill.
+💡 exploring new stuff and trying to build my skill.
+
+:bow: [![GitHub Hritik003](https://img.shields.io/github/followers/Hritik003?label=follow&style=social)](https://github.com/Hritik003)
 
 
 
 
  <img align="right" alt="GIF" src="https://github.com/Hritik003/Hritik003/blob/main/code.gif?raw=true" width="500" height="320" />
  
- ## :toolbox : Languages and Tools that I am learning.
+ ## :💬: Languages and Tools(Learning)
 
 <a href="https://www.java.com/en/"> ![alt text](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://www.java.com/en/"></code>
+<a href="https://git-scm.com/"> ![alt text](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
+
 
 
 
