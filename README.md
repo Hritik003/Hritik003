@@ -16,4 +16,9 @@
 
 
 
+
+ <img align="right" alt="GIF" src="https://github.com/Hritik003/Hritik003/blob/main/code.gif?raw=true" width="500" height="320" />
+
+
+
  
