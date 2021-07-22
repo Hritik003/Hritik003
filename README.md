@@ -4,9 +4,12 @@
 </a>
 
 
-# 👨‍💻ABOUT ME
-➡️ hi, I'm Hritik Raj, a passionate in learning tools and technologies. 
-👨‍🦱 I am a mathematics undergrad at BITS Pilani.
-💡 exploring new stuff and trying to build my skill.
+## 👨‍💻:ABOUT ME
+
+-➡️ hi, I'm Hritik Raj, a passionate in learning tools and technologies. 
+-👨‍🦱 I am a mathematics undergrad at BITS Pilani.
+-💡 exploring new stuff and trying to build my skill.
+
+
 
  
