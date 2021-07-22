@@ -39,7 +39,15 @@
 <a href="https://git-scm.com/"> ![alt text](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
 
 
+## ✴️ connect me at:
+💼 hritikraj_03@Outlook.com
+👨‍💼 f20200980@hyderabad.bits-pilani.ac.in
 
 
 
- 
+
+ <div align="center">
+
+### Keeping stalking 👀my repositories, by starring ⭐ some of the repositories!
+
+</div>
