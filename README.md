@@ -3,11 +3,15 @@
   <img align="left" alt="Hritik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br />
 
-## 👨‍💻:ABOUT ME
+
+##  :man_technologist: About Me
 
 -➡️ hi, I'm Hritik Raj, a passionate in learning tools and technologies. 
+
 -👨‍🦱 I am a mathematics undergrad at BITS Pilani.
+
 -💡 exploring new stuff and trying to build my skill.
 
 
