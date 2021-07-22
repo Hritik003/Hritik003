@@ -12,6 +12,7 @@
   <img align="left" alt="Hritik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=Hritik003.Hritik003)
 
 <br />
 
@@ -44,39 +45,6 @@
 💼 hritikraj_03@Outlook.com
 
 👨‍💼 f20200980@hyderabad.bits-pilani.ac.in
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
