@@ -25,7 +25,7 @@
 💡 exploring new stuff and trying to build my skill.
 
 :bow: 
-[![Linkedin: Hritik Raj Chanda](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Hritik Raj Chanda/)](https://www.linkedin.com/in/hritik-raj-chanda-08176920a/) 
+[![Linkedin: Hritik](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hritik-raj-chanda-08176920a/)](https://www.linkedin.com/in/hritik-raj-chanda-08176920a/)
 [![GitHub Hritik003](https://img.shields.io/github/followers/Hritik003?label=follow&style=social)](https://github.com/Hritik003)
 
 
