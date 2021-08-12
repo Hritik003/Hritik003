@@ -25,6 +25,8 @@
 
 💡 exploring new stuff and trying to build my skill.
 
+💡Presently I am learning Core Java and its prereqs.
+
 :bow: 
 [![Linkedin: Hritik](https://img.shields.io/badge/-Hritik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hritik-raj-chanda-08176920a/)](https://www.linkedin.com/in/hritik-raj-chanda-08176920a/)
 [![GitHub Hritik003](https://img.shields.io/github/followers/Hritik003?label=follow&style=social)](https://github.com/Hritik003)
