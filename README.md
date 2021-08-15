@@ -17,7 +17,7 @@
 <br />
 
 
-##  :man_technologist: About Me
+##  :man_technologist: About Me 
 
 ➡️ hi, I'm Hritik Raj, a passionate in learning tools and technologies. 
 
@@ -34,7 +34,7 @@
 
 
 
- <img align="right" alt="GIF" src="https://github.com/Hritik003/Hritik003/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Hritik003/Hritik003/blob/main/code.gif?raw=true" width="500" height="320" />
  
  ## :💬: Languages and Tools(Learning)
 
