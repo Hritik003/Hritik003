@@ -1,4 +1,4 @@
-[### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1rem">!
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1rem">!
 
 <a href="https://www.linkedin.com/in/hritik-raj-chanda-08176920a/https://www.linkedin.com/in/hritik-raj-chanda-08176920a/">
   <img align="left" alt="Hritik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -42,7 +42,7 @@
 <code><a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></code>
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <a href="https://www.java.com/en/"> ![alt text](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/10/jquery-logo-vertical_large_square.png" alt="html5" width="40" height="40"/> </a> 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?resize=300%2C300&ssl=1" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/10/jquery-logo-vertical_large_square.png" alt="html5" width="40" height="40"/> </a> 
 
 
 ## ✴️ connect me at:
@@ -59,4 +59,3 @@
 ### Have a look at my repositories!
 
 </div>
-](https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?resize=300%2C300&ssl=1)
