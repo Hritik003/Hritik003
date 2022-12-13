@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1rem">!
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="0.5rem">!
 
 <a href="https://www.linkedin.com/in/hritik-raj-chanda-08176920a/https://www.linkedin.com/in/hritik-raj-chanda-08176920a/">
   <img align="left" alt="Hritik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -18,15 +18,17 @@
 <br />
 
 
-##  :man_technologist: About Me 
+##  :man_technologist: Hritik is, 
 
-➡️ hi, I'm Hritik Raj, a passionate in learning tools and technologies. 
+➡️  a passionate in learning tools and technologies. 
 
-👨‍🦱 I am a mathematics undergrad at BITS Pilani.
+👨‍🦱  a ECE undergrad at BITS Pilani.
 
-💡 exploring new stuff and trying to build my skill.
+🔭 experienced with Java, Javascript, Golang.
 
-💡Presently I am working on Image Encryption using Particle Search Algorithm
+💡  working on Image Encryption using Particle Search Algorithm.
+
+🌩️ Fun fact: I'm very much active on Linkedin
 
 :bow: 
 [![Linkedin: Hritik](https://img.shields.io/badge/-Hritik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hritik-raj-chanda-08176920a/)](https://www.linkedin.com/in/hritik-raj-chanda-08176920a/)
